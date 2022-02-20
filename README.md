@@ -12,7 +12,7 @@ I personally found intruiging result for game titles as keyword in different loc
 To retrieve geocode for you desired locations. I used the link below.
 https://www.mapdevelopers.com/geocode_tool.php
 
-geocode=(lat,lon,xkm) ex. geocode(51.3358,-3.345,100km)
+geocode=(lat,lon,xkm)  ex. geocode=(51.3358,-3.345,100km)
 The geocode in the tweepy API should appear as shown, "no spaces".
 
 Enjoy. 
